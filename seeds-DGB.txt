@@ -1,0 +1,11 @@
+seed.digibyte.io
+seed.digibyte.org
+dnsseed.lifehash.com
+seed.digihash.co
+seed.digiassets.net
+digibyte.host
+seed.digiexplorer.info
+seed2.digibyte.io
+seed3.digibyte.io
+dgb.quakeguy.com
+seed.digibyteservers.io

@@ -1,0 +1,7 @@
+seed.flowee.cash
+seed-bch.bitcoinforks.org
+btccash-seeder.bitcoinunlimited.info
+seed.bchd.cash
+seed.bch.loping.net
+dnsseed.electroncash.de
+bchseed.c3-soft.com

@@ -1,0 +1,7 @@
+seed.digibyte.org
+seed.digibyteservers.io
+seed.digibyte.io
+seed.digibyteblockchain.com
+dnsseed.esotericizm.site
+seed.digibytefoundation.org
+seed.digibyte.host

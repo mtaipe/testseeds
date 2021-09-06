@@ -1,0 +1,4 @@
+seed.digibyte.org
+seed.digibyteservers.io
+seed.digibyte.io
+dnsseed.lifehash.com
